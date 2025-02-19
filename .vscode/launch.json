@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-WebSocketsPocApplication<web-sockets-poc>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "main.java.fi.amen.web_sockets_poc.WebSocketsPocApplication",
+            "projectName": "web-sockets-poc",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
